@@ -1,0 +1,1 @@
+zaman	hucre1	hucre2	hucre3	hucre4	hucre5	hucre6	hucre7	hucre8	hucre9	hucre10	hucre11	hucre12	hucre13	hucre14	hucre15	hucre16	hucre17	hucre18	hucre19	hucre20	hucre21	hucre22	minHucre	maxHucre	Gerilim	sicaklik1	sicaklik2	sicaklik3	sicaklik4	maxSicaklik	akim	harcananEnerji	kalanEnerji	yüzde	motorSicakligi	hiz

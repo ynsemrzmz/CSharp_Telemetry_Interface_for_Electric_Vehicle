@@ -1,0 +1,103 @@
+C:\Users\HP\source\repos\TelemetryRev1.0\TelemetryRev1.0\bin\Debug\TelemetryRev1.0.exe.config
+C:\Users\HP\source\repos\TelemetryRev1.0\TelemetryRev1.0\bin\Debug\TelemetryRev1.0.exe
+C:\Users\HP\source\repos\TelemetryRev1.0\TelemetryRev1.0\bin\Debug\TelemetryRev1.0.pdb
+C:\Users\HP\source\repos\TelemetryRev1.0\TelemetryRev1.0\obj\Debug\TelemetryRev1.0.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\TelemetryRev1.0\TelemetryRev1.0\obj\Debug\TelemetryRev1._0.Form1.resources
+C:\Users\HP\source\repos\TelemetryRev1.0\TelemetryRev1.0\obj\Debug\TelemetryRev1._0.Properties.Resources.resources
+C:\Users\HP\source\repos\TelemetryRev1.0\TelemetryRev1.0\obj\Debug\TelemetryRev1.0.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\TelemetryRev1.0\TelemetryRev1.0\obj\Debug\TelemetryRev1.0.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\TelemetryRev1.0\TelemetryRev1.0\obj\Debug\TelemetryRev1.0.exe
+C:\Users\HP\source\repos\TelemetryRev1.0\TelemetryRev1.0\obj\Debug\TelemetryRev1.0.pdb
+C:\Users\HP\source\repos\TelemetryRev1.0\TelemetryRev1.0\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+C:\Users\HP\source\repos\TelemetryRev1.0\TelemetryRev1.0\bin\Debug\DevExpress.Data.v20.1.dll
+C:\Users\HP\source\repos\TelemetryRev1.0\TelemetryRev1.0\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+C:\Users\HP\source\repos\TelemetryRev1.0\TelemetryRev1.0\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+C:\Users\HP\source\repos\TelemetryRev1.0\TelemetryRev1.0\bin\Debug\DevExpress.Utils.v20.1.dll
+C:\Users\HP\source\repos\TelemetryRev1.0\TelemetryRev1.0\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+C:\Users\HP\source\repos\TelemetryRev1.0\TelemetryRev1.0\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+C:\Users\HP\source\repos\TelemetryRev1.0\TelemetryRev1.0\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+C:\Users\HP\source\repos\TelemetryRev1.0\TelemetryRev1.0\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+C:\Users\HP\source\repos\TelemetryRev1.0\TelemetryRev1.0\bin\Debug\DevExpress.Data.v20.1.xml
+C:\Users\HP\source\repos\TelemetryRev1.0\TelemetryRev1.0\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+C:\Users\HP\source\repos\TelemetryRev1.0\TelemetryRev1.0\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+C:\Users\HP\source\repos\TelemetryRev1.0\TelemetryRev1.0\bin\Debug\DevExpress.Utils.v20.1.xml
+C:\Users\HP\source\repos\TelemetryRev1.0\TelemetryRev1.0\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+C:\Users\HP\source\repos\TelemetryRev1.0\TelemetryRev1.0\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+C:\Users\HP\source\repos\TelemetryRev1.0\TelemetryRev1.0\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+C:\Users\HP\source\repos\TelemetryRev1.0\TelemetryRev1.0\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+C:\Users\HP\source\repos\TelemetryRev1.0\TelemetryRev1.0\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+C:\Users\HP\source\repos\TelemetryRev1.0\TelemetryRev1.0\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+C:\Users\HP\source\repos\TelemetryRev1.0\TelemetryRev1.0\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+C:\Users\HP\source\repos\TelemetryRev1.0\TelemetryRev1.0\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\HP\source\repos\TelemetryRev1.0\TelemetryRev1.0\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\HP\source\repos\TelemetryRev1.0\TelemetryRev1.0\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\HP\source\repos\TelemetryRev1.0\TelemetryRev1.0\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\HP\source\repos\TelemetryRev1.0\TelemetryRev1.0\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\HP\source\repos\TelemetryRev1.0\TelemetryRev1.0\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\HP\source\repos\TelemetryRev1.0\TelemetryRev1.0\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\HP\source\repos\TelemetryRev1.0\TelemetryRev1.0\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\HP\source\repos\TelemetryRev1.0\TelemetryRev1.0\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+C:\Users\HP\source\repos\TelemetryRev1.0\TelemetryRev1.0\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+C:\Users\HP\source\repos\TelemetryRev1.0\TelemetryRev1.0\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+C:\Users\HP\source\repos\TelemetryRev1.0\TelemetryRev1.0\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+C:\Users\HP\source\repos\TelemetryRev1.0\TelemetryRev1.0\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\HP\source\repos\TelemetryRev1.0\TelemetryRev1.0\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\HP\source\repos\TelemetryRev1.0\TelemetryRev1.0\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\HP\source\repos\TelemetryRev1.0\TelemetryRev1.0\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\HP\source\repos\TelemetryRev1.0\TelemetryRev1.0\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\HP\source\repos\TelemetryRev1.0\TelemetryRev1.0\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\HP\source\repos\TelemetryRev1.0\TelemetryRev1.0\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\HP\source\repos\TelemetryRev1.0\TelemetryRev1.0\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\HP\source\repos\TelemetryRev1.0\TelemetryRev1.0\obj\Debug\TelemetryRev1.0.exe.licenses
+C:\Users\HP\source\repos\TelemetryRev1.0\TelemetryRev1.0\obj\Debug\TelemetryRev1.0.csproj.CopyComplete
+C:\Users\HP\Google Drive\Yunus_Emre_Üzmez\TelemetryRev1.0\TelemetryRev1.0\bin\Debug\TelemetryRev1.0.exe.config
+C:\Users\HP\Google Drive\Yunus_Emre_Üzmez\TelemetryRev1.0\TelemetryRev1.0\bin\Debug\TelemetryRev1.0.exe
+C:\Users\HP\Google Drive\Yunus_Emre_Üzmez\TelemetryRev1.0\TelemetryRev1.0\bin\Debug\TelemetryRev1.0.pdb
+C:\Users\HP\Google Drive\Yunus_Emre_Üzmez\TelemetryRev1.0\TelemetryRev1.0\obj\Debug\TelemetryRev1.0.csprojAssemblyReference.cache
+C:\Users\HP\Google Drive\Yunus_Emre_Üzmez\TelemetryRev1.0\TelemetryRev1.0\obj\Debug\TelemetryRev1._0.Form1.resources
+C:\Users\HP\Google Drive\Yunus_Emre_Üzmez\TelemetryRev1.0\TelemetryRev1.0\obj\Debug\TelemetryRev1._0.Properties.Resources.resources
+C:\Users\HP\Google Drive\Yunus_Emre_Üzmez\TelemetryRev1.0\TelemetryRev1.0\obj\Debug\TelemetryRev1.0.csproj.GenerateResource.cache
+C:\Users\HP\Google Drive\Yunus_Emre_Üzmez\TelemetryRev1.0\TelemetryRev1.0\obj\Debug\TelemetryRev1.0.csproj.CoreCompileInputs.cache
+C:\Users\HP\Google Drive\Yunus_Emre_Üzmez\TelemetryRev1.0\TelemetryRev1.0\obj\Debug\TelemetryRev1.0.exe
+C:\Users\HP\Google Drive\Yunus_Emre_Üzmez\TelemetryRev1.0\TelemetryRev1.0\obj\Debug\TelemetryRev1.0.pdb
+C:\Users\HP\Google Drive\Yunus_Emre_Üzmez\TelemetryRev1.0\TelemetryRev1.0\bin\Debug\aa\TelemetryRev1.0.resources.dll
+C:\Users\HP\Google Drive\Yunus_Emre_Üzmez\TelemetryRev1.0\TelemetryRev1.0\obj\Debug\TelemetryRev1._0.Form1.aa.resources
+C:\Users\HP\Google Drive\Yunus_Emre_Üzmez\TelemetryRev1.0\TelemetryRev1.0\obj\Debug\aa\TelemetryRev1.0.resources.dll
+C:\Users\MUCAHID AYDIN\Downloads\Telegram Desktop\TelemetryRev1.0\TelemetryRev1.0\bin\Debug\TelemetryRev1.0.exe.config
+C:\Users\MUCAHID AYDIN\Downloads\Telegram Desktop\TelemetryRev1.0\TelemetryRev1.0\obj\Debug\TelemetryRev1.0.exe
+C:\Users\MUCAHID AYDIN\Downloads\Telegram Desktop\TelemetryRev1.0\TelemetryRev1.0\obj\Debug\TelemetryRev1.0.pdb
+C:\Users\MUCAHID AYDIN\Downloads\Telegram Desktop\TelemetryRev1.0\TelemetryRev1.0\obj\Debug\TelemetryRev1.0.csprojResolveAssemblyReference.cache
+C:\Users\MUCAHID AYDIN\Downloads\Telegram Desktop\TelemetryRev1.0\TelemetryRev1.0\obj\Debug\TelemetryRev1._0.Form1.resources
+C:\Users\MUCAHID AYDIN\Downloads\Telegram Desktop\TelemetryRev1.0\TelemetryRev1.0\obj\Debug\TelemetryRev1._0.Properties.Resources.resources
+C:\Users\MUCAHID AYDIN\Downloads\Telegram Desktop\TelemetryRev1.0\TelemetryRev1.0\obj\Debug\TelemetryRev1._0.Form1.aa.resources
+C:\Users\MUCAHID AYDIN\Downloads\Telegram Desktop\TelemetryRev1.0\TelemetryRev1.0\obj\Debug\TelemetryRev1.0.csproj.GenerateResource.Cache
+C:\Users\MUCAHID AYDIN\Downloads\Telegram Desktop\TelemetryRev1.0\TelemetryRev1.0\bin\Debug\TelemetryRev1.0.exe
+C:\Users\MUCAHID AYDIN\Downloads\Telegram Desktop\TelemetryRev1.0\TelemetryRev1.0\bin\Debug\TelemetryRev1.0.pdb
+C:\Users\MUCAHID AYDIN\Downloads\Telegram Desktop\TelemetryRev1.0\TelemetryRev1.0\bin\Debug\aa\TelemetryRev1.0.resources.dll
+C:\Users\MUCAHID AYDIN\Downloads\Telegram Desktop\TelemetryRev1.0\TelemetryRev1.0\obj\Debug\aa\TelemetryRev1.0.resources.dll
+C:\Users\HP\Desktop\TelemetryRev2_0_mchd\TelemetryRev1.0\TelemetryRev1.0\bin\Debug\TelemetryRev1.0.exe.config
+C:\Users\HP\Desktop\TelemetryRev2_0_mchd\TelemetryRev1.0\TelemetryRev1.0\bin\Debug\TelemetryRev1.0.exe
+C:\Users\HP\Desktop\TelemetryRev2_0_mchd\TelemetryRev1.0\TelemetryRev1.0\bin\Debug\TelemetryRev1.0.pdb
+C:\Users\HP\Desktop\TelemetryRev2_0_mchd\TelemetryRev1.0\TelemetryRev1.0\bin\Debug\aa\TelemetryRev1.0.resources.dll
+C:\Users\HP\Desktop\TelemetryRev2_0_mchd\TelemetryRev1.0\TelemetryRev1.0\obj\Debug\TelemetryRev1.0.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\TelemetryRev2_0_mchd\TelemetryRev1.0\TelemetryRev1.0\obj\Debug\TelemetryRev1._0.Form1.resources
+C:\Users\HP\Desktop\TelemetryRev2_0_mchd\TelemetryRev1.0\TelemetryRev1.0\obj\Debug\TelemetryRev1._0.Properties.Resources.resources
+C:\Users\HP\Desktop\TelemetryRev2_0_mchd\TelemetryRev1.0\TelemetryRev1.0\obj\Debug\TelemetryRev1._0.Form1.aa.resources
+C:\Users\HP\Desktop\TelemetryRev2_0_mchd\TelemetryRev1.0\TelemetryRev1.0\obj\Debug\TelemetryRev1.0.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\TelemetryRev2_0_mchd\TelemetryRev1.0\TelemetryRev1.0\obj\Debug\TelemetryRev1.0.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\TelemetryRev2_0_mchd\TelemetryRev1.0\TelemetryRev1.0\obj\Debug\aa\TelemetryRev1.0.resources.dll
+C:\Users\HP\Desktop\TelemetryRev2_0_mchd\TelemetryRev1.0\TelemetryRev1.0\obj\Debug\TelemetryRev1.0.exe
+C:\Users\HP\Desktop\TelemetryRev2_0_mchd\TelemetryRev1.0\TelemetryRev1.0\obj\Debug\TelemetryRev1.0.pdb
+C:\Users\HP\Desktop\TelemetryRev1.0\TelemetryRev1.0\bin\Debug\TelemetryRev1.0.exe.config
+C:\Users\HP\Desktop\TelemetryRev1.0\TelemetryRev1.0\bin\Debug\TelemetryRev1.0.exe
+C:\Users\HP\Desktop\TelemetryRev1.0\TelemetryRev1.0\bin\Debug\TelemetryRev1.0.pdb
+C:\Users\HP\Desktop\TelemetryRev1.0\TelemetryRev1.0\bin\Debug\aa\TelemetryRev1.0.resources.dll
+C:\Users\HP\Desktop\TelemetryRev1.0\TelemetryRev1.0\obj\Debug\TelemetryRev1.0.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\TelemetryRev1.0\TelemetryRev1.0\obj\Debug\TelemetryRev1._0.Form1.resources
+C:\Users\HP\Desktop\TelemetryRev1.0\TelemetryRev1.0\obj\Debug\TelemetryRev1._0.Properties.Resources.resources
+C:\Users\HP\Desktop\TelemetryRev1.0\TelemetryRev1.0\obj\Debug\TelemetryRev1._0.Form1.aa.resources
+C:\Users\HP\Desktop\TelemetryRev1.0\TelemetryRev1.0\obj\Debug\TelemetryRev1.0.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\TelemetryRev1.0\TelemetryRev1.0\obj\Debug\TelemetryRev1.0.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\TelemetryRev1.0\TelemetryRev1.0\obj\Debug\aa\TelemetryRev1.0.resources.dll
+C:\Users\HP\Desktop\TelemetryRev1.0\TelemetryRev1.0\obj\Debug\TelemetryRev1.0.exe
+C:\Users\HP\Desktop\TelemetryRev1.0\TelemetryRev1.0\obj\Debug\TelemetryRev1.0.pdb
